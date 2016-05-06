@@ -1,5 +1,5 @@
 # Release name
-PRODUCT_RELEASE_NAME := Nexus7-GSM
+PRODUCT_RELEASE_NAME := Pwn Pad
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1280
@@ -19,9 +19,9 @@ $(call inherit-product, device/asus/tilapia/full_tilapia.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := tilapia
-PRODUCT_NAME := cm_tilapia
+PRODUCT_NAME := aopp_tilapia
 PRODUCT_BRAND := Google
-PRODUCT_MODEL := Nexus 7
+PRODUCT_MODEL := Pwn Pad
 PRODUCT_MANUFACTURER := Asus
 
 #Set build fingerprint / ID / Product Name ect.
